@@ -1,2 +1,3 @@
 1. The Product added feature implemented
 2. The Theme Feature implemented and added
+3. Bug here
